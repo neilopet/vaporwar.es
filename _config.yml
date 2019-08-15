@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: 【﻿Ｖａｐｏｒｗａｒｅ】
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Musings of an old hacker.
@@ -61,7 +61,7 @@ author:
   bio    : "Musings of an old hacker."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/neilopet/"
     - label: "@SmartererChild"
       icon: "fab fa-fw fa-twitter-square"
@@ -70,7 +70,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/neilopet/"
     - label: "@SmartererChild"
       icon: "fab fa-fw fa-twitter-square"
