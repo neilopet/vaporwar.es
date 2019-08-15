@@ -61,7 +61,7 @@ author:
   bio    : "Musings of an old hacker."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linked-in"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/neilopet/"
     - label: "@SmartererChild"
       icon: "fab fa-fw fa-twitter-square"
@@ -70,7 +70,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linked-in"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/neilopet/"
     - label: "@SmartererChild"
       icon: "fab fa-fw fa-twitter-square"
