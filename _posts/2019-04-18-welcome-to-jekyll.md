@@ -1,29 +1,24 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "The Matrix of Definition Importance"
+date: 2019-08-14T22:22:30-04:00
 categories:
-  - blog
+  - PMP
 tags:
-  - Jekyll
-  - update
+  - pmp
+  - study
+  - project-management
+  - personal-development
+  - certification
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I'm reading The PMP Exam: How to Pass on Your First Try by Andy Crowe.  As part of my studying, I decided to write each definition in a Google Doc condensing this further.  The goal is to have my cliff notes with book citations for further info.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I had a curious thought after finishing the last definition - how does each term apply to each process group and how can I order the terms by importance?
 
-Jekyll also offers powerful support for code snippets:
+The 5 process groups are: Initiating, Planning, Executing, Monitoring & Controlling, and Closing.  Each question on the exam relates to one of these groups however, not all groups have the same number of questions, therefore some kinda of natural ordering is implied.
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+Executing makes up 31% of the exam, followed by Monitoring & Controlling with 25%, then Planning (24%), Initiating (13%), and finally Closing (7%).
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Without further ado, I present the matrix (it is a work in progress and subject to change, as all things should be).
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![](assets/images/matrix-of-definition-importance.png)
