@@ -1,5 +1,5 @@
 ---
-title: "The Matrix of Definition Importance"
+title: "PMP Definitions: Table of Importance"
 date: 2019-08-14T22:22:30-04:00
 categories:
   - PMP
