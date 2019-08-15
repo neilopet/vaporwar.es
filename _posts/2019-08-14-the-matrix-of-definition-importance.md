@@ -21,4 +21,4 @@ Executing makes up 31% of the exam, followed by Monitoring & Controlling with 25
 
 Without further ado, I present the matrix (it is a work in progress and subject to change, as all things should be).
 
-![](assets/images/matrix-of-definition-importance.png)
+![](/assets/images/matrix-of-definition-importance.png)
